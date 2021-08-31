@@ -2,7 +2,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 
 ## Installation
-[Öncelikle projeyi clonelayın.](https://github.com/saadetbozkan/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın.
 
 `git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git`
 
